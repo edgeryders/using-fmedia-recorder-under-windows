@@ -23,3 +23,4 @@ REM So always specify the number of seconds + 1 for the delay.
 REM Pause for 5 second and exit because reorded file path will be shown after recording
 
 ping 127.0.0.1 -n 6 > nul
+start %userprofile%\Documents\riot_recording
